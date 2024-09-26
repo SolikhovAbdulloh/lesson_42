@@ -60,7 +60,9 @@ button:hover{
       height: 300px;
       margin: 20px auto;
     }
-
+.jk{
+  background-image: url(../img/y1.png);
+}
 @media (max-width:730px) {
     .card{
         display: grid;
