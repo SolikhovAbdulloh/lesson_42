@@ -64,7 +64,7 @@
 // getDivisorsCnt(4);
 
 
-//4-masala yoq
+//4-masala yoq tushunmadm
 
 
 
